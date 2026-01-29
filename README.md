@@ -1,4 +1,4 @@
-# Traffic Obfuscator
+# Traffic Obfuscator ( Decoy )
 
 A traffic simulation and obfuscation tool written in Go.  
 It generates high-volume noise traffic to mask user behavior and bypass Deep Packet Inspection (DPI) systems that rely on behavioral analysis.
